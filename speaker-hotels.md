@@ -23,7 +23,7 @@ Lindenstraße 38, 98693 Ilmenau
 
 Tel: 03677 6590
 
-# Berg- und Jagdhotel Gabelbach
+## Berg- und Jagdhotel Gabelbach
 * Historisches Jagdhotel mitten im Thüringer Wald
 * Wellnessbereich
 * sehr gutes Restaurant 
